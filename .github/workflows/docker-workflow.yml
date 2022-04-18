@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
     inputs:
       version:
-        description: "v1.3.0"
-        required: false
+        description: "v1.0.0"
+        required: true
 
 jobs:
   push-image-api:
