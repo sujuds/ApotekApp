@@ -1,0 +1,8 @@
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.deps.json
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.dll
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\bin\Debug\netcoreapp3.1\AppBusiness.Data.pdb
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.AssemblyInfoInputs.cache
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.AssemblyInfo.cs
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.csproj.CoreCompileInputs.cache
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.dll
+D:\dotnet\Personal Dev\ApotekApp\Business\AppBusiness.Data\obj\Debug\netcoreapp3.1\AppBusiness.Data.pdb
