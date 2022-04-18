@@ -21,7 +21,7 @@ WORKDIR /src
 COPY ["Apps/RestApi/RestApi.csproj", "Apps/RestApi/"]
 COPY ["Business/AppPersistence.Interface/AppPersistence.Interface.csproj", "Business/AppPersistence.Interface/"]
 COPY ["Business/AppBusiness.Data/AppBusiness.Data.csproj", "Business/AppBusiness.Data/"]
-COPY ["Modules/AppPersistence.Mysql/AppPersistence.MySql.csproj", "Modules/AppPersistence.MySql/"]
+COPY ["Modules/AppPersistence.MySql/AppPersistence.MySql.csproj", "Modules/AppPersistence.MySql/"]
 COPY ["Business/AppBusiness.Interface/AppBusiness.Interface.csproj", "Business/AppBusiness.Interface/"]
 COPY ["Business/AppBusiness.Impl/AppBusiness.Impl.csproj", "Business/AppBusiness.Impl/"]
 RUN dotnet restore "Apps/RestApi/RestApi.csproj"
