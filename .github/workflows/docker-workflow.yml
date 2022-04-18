@@ -36,7 +36,7 @@ jobs:
           context: ./
           file: ./Apps/RestApi/Dockerfile
           push: true
-          tags: sujuds/apotek-app:"${{ steps.get_version.outputs.VERSION_NUMBER }}"
+          tags: sujuds/apotek-app:latest
 
       - name: Image digest  
         run: echo ${{ steps.docker_build.outputs.digest }}
